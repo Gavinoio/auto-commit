@@ -26,7 +26,7 @@ jobs:
       - name: 配置 Git
         run: |
           git config --local user.name "Gavinoio"
-          git config --local user.email "64867944@qq.com"
+          git config --local user.email "75530283+Gavinoio@users.noreply.github.com"
 
       - name: 获取当前位置天气
         id: weather
